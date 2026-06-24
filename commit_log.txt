@@ -49,3 +49,4 @@
 2026-06-24 21:04:02 - perf: optimize local history memory usage
 2026-06-24 21:04:02 - docs: update TODO.md checklist items
 2026-06-24 21:04:02 - docs: update readme with edge function deployment notes
+2026-06-24 21:04:03 - docs: finalize installation instructions in documentation
