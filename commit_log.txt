@@ -41,3 +41,4 @@
 2026-06-24 21:03:59 - chore: remove unused React imports across files
 2026-06-24 21:04:00 - chore: clean up obsolete getFallbackCategory function
 2026-06-24 21:04:00 - chore: remove obsolete shims.d.ts overrides
+2026-06-24 21:04:00 - fix: escape unescaped single quotes in DisposalChatPage
