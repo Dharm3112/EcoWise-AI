@@ -46,3 +46,4 @@
 2026-06-24 21:04:01 - chore: create .gitignore with exclusion rules
 2026-06-24 21:04:01 - style: adjust grid gaps and margins on WasteClassifyPage
 2026-06-24 21:04:02 - style: add subtle card shadow hover effects
+2026-06-24 21:04:02 - perf: optimize local history memory usage
