@@ -30,3 +30,4 @@
 2026-06-24 21:03:57 - feat: implement answerDisposalByRules chat fallback handler
 2026-06-24 21:03:57 - feat: create ecowiseApi client service module
 2026-06-24 21:03:57 - feat: implement submitClassifyRequest fetch function
+2026-06-24 21:03:57 - feat: implement submitDisposalChatRequest fetch function
