@@ -34,3 +34,4 @@
 2026-06-24 21:03:58 - feat: add netlify.toml for deployment configuration
 2026-06-24 21:03:58 - feat: create waste-classify edge function boilerplate
 2026-06-24 21:03:58 - feat: create disposal-chat edge function boilerplate
+2026-06-24 21:03:58 - refactor: rewrite waste-classify function to use Deno Web APIs
