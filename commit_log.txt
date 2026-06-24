@@ -28,3 +28,4 @@
 2026-06-24 21:03:56 - feat: define RuleResult interfaces for offline system
 2026-06-24 21:03:56 - feat: implement classifyWasteByRules offline handler
 2026-06-24 21:03:57 - feat: implement answerDisposalByRules chat fallback handler
+2026-06-24 21:03:57 - feat: create ecowiseApi client service module
