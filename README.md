@@ -115,28 +115,6 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher) and `npm` inst
 
 ---
 
-## 🌐 Deployment Guides
-
-### Option A: Deploy on Vercel (Recommended)
-
-1.  Push your code to a GitHub repository.
-2.  Go to your [Vercel Dashboard](https://vercel.com/new).
-3.  Click **Import** on your repository.
-4.  Vercel will auto-detect the framework preset as **Vite**.
-5.  Click **Deploy**. Vercel will automatically host the React frontend and deploy the Edge Functions under `api/` to `/api/*` routes.
-
-### Option B: Deploy on Netlify
-
-1.  Push your code to a GitHub repository.
-2.  Go to your [Netlify Dashboard](https://app.netlify.com/).
-3.  Click **Import from Git** and choose your repository.
-4.  Netlify will automatically read `netlify.toml` and configure:
-    *   **Build command:** `npm run build`
-    *   **Publish directory:** `dist`
-5.  Click **Deploy site**.
-
----
-
 ## 🔮 Future Roadmap (AI Integration)
 
 For scaling beyond rule-based classification, this template is structured to easily integrate Large Language Models (LLMs):
