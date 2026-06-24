@@ -1,4 +1,4 @@
-import { answerDisposalByRules } from "../src/utils/wasteRules.ts";
+import { answerDisposalByRules } from "./wasteRules";
 
 export const config = {
     runtime: "edge",

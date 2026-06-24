@@ -1,4 +1,4 @@
-import { classifyWasteByRules } from "../src/utils/wasteRules.ts";
+import { classifyWasteByRules } from "./wasteRules";
 
 export const config = {
     runtime: "edge",
