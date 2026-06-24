@@ -42,3 +42,4 @@
 2026-06-24 21:04:00 - chore: clean up obsolete getFallbackCategory function
 2026-06-24 21:04:00 - chore: remove obsolete shims.d.ts overrides
 2026-06-24 21:04:00 - fix: escape unescaped single quotes in DisposalChatPage
+2026-06-24 21:04:01 - fix: correct netlify.toml dev port configuration
