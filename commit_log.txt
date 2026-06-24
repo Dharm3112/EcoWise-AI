@@ -21,3 +21,4 @@
 2026-06-24 21:03:55 - style: create TipsPage CSS module styles
 2026-06-24 21:03:55 - feat: create HistoryPage component and items rendering
 2026-06-24 21:03:55 - style: create HistoryPage CSS styling
+2026-06-24 21:03:55 - feat: define WasteHistoryItem interface in types
