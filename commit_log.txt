@@ -32,3 +32,4 @@
 2026-06-24 21:03:57 - feat: implement submitClassifyRequest fetch function
 2026-06-24 21:03:57 - feat: implement submitDisposalChatRequest fetch function
 2026-06-24 21:03:58 - feat: add netlify.toml for deployment configuration
+2026-06-24 21:03:58 - feat: create waste-classify edge function boilerplate
