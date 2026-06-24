@@ -9,3 +9,4 @@
 2026-06-24 21:03:52 - feat: implement sustainability tips tips.html skeleton
 2026-06-24 21:03:52 - feat: implement history.html skeleton layout
 2026-06-24 21:03:52 - feat: create main.tsx entrypoint for React application
+2026-06-24 21:03:52 - feat: create AppShell component structure
