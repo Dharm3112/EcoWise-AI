@@ -17,3 +17,4 @@
 2026-06-24 21:03:54 - style: create WasteClassifyPage module css styles
 2026-06-24 21:03:54 - feat: create DisposalChatPage layout and state
 2026-06-24 21:03:54 - style: create DisposalChatPage module styling
+2026-06-24 21:03:54 - feat: create TipsPage layout and display list
