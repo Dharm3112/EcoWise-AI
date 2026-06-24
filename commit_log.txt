@@ -11,3 +11,4 @@
 2026-06-24 21:03:52 - feat: create main.tsx entrypoint for React application
 2026-06-24 21:03:52 - feat: create AppShell component structure
 2026-06-24 21:03:53 - style: add global.css base styles and typography
+2026-06-24 21:03:53 - style: add AppShell module styling
