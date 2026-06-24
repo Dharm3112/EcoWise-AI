@@ -25,3 +25,4 @@
 2026-06-24 21:03:56 - feat: implement loadFromHistory helper using localStorage
 2026-06-24 21:03:56 - feat: implement saveToHistory utility function
 2026-06-24 21:03:56 - feat: implement clearHistory utility function
+2026-06-24 21:03:56 - feat: define RuleResult interfaces for offline system
