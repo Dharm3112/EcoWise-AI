@@ -23,3 +23,4 @@
 2026-06-24 21:03:55 - style: create HistoryPage CSS styling
 2026-06-24 21:03:55 - feat: define WasteHistoryItem interface in types
 2026-06-24 21:03:56 - feat: implement loadFromHistory helper using localStorage
+2026-06-24 21:03:56 - feat: implement saveToHistory utility function
