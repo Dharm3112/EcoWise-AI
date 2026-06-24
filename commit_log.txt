@@ -1,3 +1,4 @@
 2026-06-24 21:03:50 - chore: initial repository configuration
 2026-06-24 21:03:50 - docs: create PRD outlining SDG targets and AI solutions
 2026-06-24 21:03:50 - feat: add package.json and vite.config.js templates
+2026-06-24 21:03:51 - feat: configure typescript compiler options in tsconfig.json
