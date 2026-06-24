@@ -1,0 +1,203 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 18px
+}
+
+.h1 {
+    margin: 0;
+    font-size: 30px;
+    letter-spacing: -0.03em
+}
+
+.p {
+    margin: 0;
+    color: rgba(15, 23, 42, 0.72);
+    max-width: 760px;
+    line-height: 1.55
+}
+
+.form {
+    margin-top: 6px;
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.10);
+    border-radius: 18px;
+    padding: 18px
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px
+}
+
+@media (max-width:900px) {
+    .grid {
+        grid-template-columns: 1fr
+    }
+}
+
+.label {
+    display: block;
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 8px;
+    color: rgba(15, 23, 42, 0.75)
+}
+
+.input {
+    width: 100%;
+    padding: 12px 12px;
+    border-radius: 12px;
+    border: 1px solid rgba(15, 23, 42, 0.16);
+    background: #fafafa
+}
+
+.preview {
+    margin-top: 10px;
+    width: 100%;
+    max-height: 260px;
+    object-fit: contain;
+    border-radius: 14px;
+    border: 1px solid rgba(15, 23, 42, 0.12);
+    background: #fff
+}
+
+.previewPlaceholder {
+    margin-top: 10px;
+    width: 100%;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    border: 1px dashed rgba(15, 23, 42, 0.25);
+    color: rgba(15, 23, 42, 0.5)
+}
+
+.chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px
+}
+
+.chip {
+    padding: 10px 12px;
+    border-radius: 999px;
+    border: 1px solid rgba(15, 23, 42, 0.12);
+    background: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 13px;
+    color: rgba(15, 23, 42, 0.8)
+}
+
+.chip:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 18px rgba(15, 23, 42, 0.08)
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 14px
+}
+
+.button {
+    padding: 12px 16px;
+    border-radius: 14px;
+    border: 1px solid rgba(15, 23, 42, 0.10);
+    background: #0f172a;
+    color: #fff;
+    font-weight: 900;
+    cursor: pointer;
+    min-width: 220px
+}
+
+.button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed
+}
+
+.hint {
+    color: rgba(15, 23, 42, 0.6);
+    font-size: 13px
+}
+
+.error {
+    background: #fff1f2;
+    border: 1px solid rgba(239, 68, 68, 0.25);
+    color: #b91c1c;
+    padding: 12px 14px;
+    border-radius: 14px
+}
+
+.card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.10);
+    border-radius: 18px;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.cardTitle {
+    margin: 0;
+    font-size: 18px
+}
+
+.resultGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px
+}
+
+@media (max-width:720px) {
+    .resultGrid {
+        grid-template-columns: 1fr
+    }
+}
+
+.kvLabel {
+    font-size: 12px;
+    font-weight: 800;
+    color: rgba(15, 23, 42, 0.6);
+    margin-bottom: 4px
+}
+
+.kvValue {
+    font-size: 16px;
+    font-weight: 900;
+    color: #0f172a
+}
+
+.block {
+    background: rgba(15, 23, 42, 0.03);
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    border-radius: 14px;
+    padding: 12px
+}
+
+.blockTitle {
+    font-weight: 900;
+    font-size: 13px;
+    margin-bottom: 8px;
+    color: rgba(15, 23, 42, 0.75)
+}
+
+.blockBody {
+    color: rgba(15, 23, 42, 0.85);
+    line-height: 1.5;
+    font-weight: 650;
+    font-size: 13.5px
+}
+
+.smallRow {
+    color: rgba(15, 23, 42, 0.7);
+    font-weight: 800
+}
