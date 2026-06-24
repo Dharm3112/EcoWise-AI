@@ -4,3 +4,4 @@
 2026-06-24 21:03:51 - feat: configure typescript compiler options in tsconfig.json
 2026-06-24 21:03:51 - feat: add vite-env.d.ts for asset definitions
 2026-06-24 21:03:51 - feat: implement index.html skeleton layout
+2026-06-24 21:03:51 - feat: implement disposal chat.html skeleton
