@@ -29,7 +29,7 @@ export default async (request: Request) => {
             answerText: answer.answerText,
             wasteCategory: answer.wasteCategory,
             disposalCategory: answer.disposalCategory,
-            confidence: answer.confidence ?? 0.35,
+            confidence: 0.35,
             recyclingRecommendation: answer.recyclingRecommendation,
             disposalMethod: answer.disposalMethod,
             transparency: answer.transparency,
